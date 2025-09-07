@@ -141,7 +141,7 @@ export default function TestimonialsPage() {
                     <div className="text-gray-300">Client Satisfaction Rate</div>
                   </div>
                   <div>
-                    <div className="text-4xl font-bold text-cyan-400 mb-2">49</div>
+                    <div className="text-4xl font-bold text-cyan-400 mb-2">100%</div>
                     <div className="text-gray-300">Happy Customers</div>
                   </div>
                   <div>
