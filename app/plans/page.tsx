@@ -15,7 +15,7 @@ export default function PlansPage() {
     {
       name: "Full Minecraft Network Setup",
       description: "Complete multi-server network with custom plugins and advanced configurations",
-      price: "$100",
+      price: "$300",
       timeframe: "3-4 weeks",
       icon: Server,
       color: "from-cyan-500 to-blue-600",
