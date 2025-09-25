@@ -18,7 +18,7 @@ export default function ProjectsPage() {
       features: ["Custom Plugins", "Economy System", "PvP Arena", "Community Events"],
     },
     {
-      name: "Boiga SMP",
+      name: "RageSMP",
       description: "Survival Multiplayer server focused on community building and collaborative gameplay.",
       status: "Active",
       type: "Minecraft SMP",
@@ -34,7 +34,7 @@ export default function ProjectsPage() {
     {
       name: "Frost SMP",
       description: "Multi-server network with various game modes and cross-server functionality.",
-      status: "Active",
+      status: "Closed",
       type: "Server Network",
       features: ["Multi-Server", "Cross-Platform", "Custom Lobbies", "Rank System"],
     },
